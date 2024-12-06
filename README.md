@@ -2,7 +2,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-This is a sample README document, generated through a javascript file using Node.js to run in the terminal!
+This is a README Generator, generated through a javascript file using Node.js to run in the terminal! This program can be used to create professional README documents with ease with auto formatting.
 
 ## Table of Contents
 - [Installation](#installation)
